@@ -1,5 +1,6 @@
 {
   "name": "playlist SZRU",
+  "version": "1.0.0",
   "type": "list",
   "template": {
     "type": "control",
