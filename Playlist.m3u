@@ -1,11 +1,94 @@
 #EXTM3U 
+#EXTINF:-1, Euronews
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1, NBC NEWS NOW
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1, Bloomberg
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1, Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1, TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1, France 24 
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1, Parasha24
-http://31.148.48.15/Rossiya_24/index.m3u8
-#EXTINF:-1, DW
-http://45.190.28.50/DW/index.m3u8
+#EXTINF:-1, Parasha ch1 eu
+https://streaming.thestream.cyou/live/210.m3u8
 #EXTINF:-1, CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1, CGTN rus
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1, belarus1
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/playlist.m3u8
+#EXTINF:-1, belarus24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1,ACTION HD
+https://stitch-ua6.fastad.pro/main.m3u8?c=3170&dt=2&o=aHR0cHM6Ly9obHMzNi5zd2VldC50di9zdHJlYW0veHZwNThiODM5NzV4aDh2amFtcjdld2p2c3hrdHptcmdwaG03YThpOGdyczNtNzhmNjVnZXV4dGd5c3JhM3lzOWdiOXF3eXp1bTllNHpzNjI4OXh4aHN1djVreTY3bTI4ZzRzdGNzZmFneGtlZGk5c3djemtjanJwd3J0MnlpeTJ1eXp6cGFmOGNrd3JobnozZHR2eG0yYnhndndleXk4YXVqdjJ4d3l0anFuengzbWJnNXVnNGN2ajR4dGE4aDg0OWhkYmJ0OHJxbj09PT09PQ%3D%3D&p=1&sid=16289933173689459587&u=4658946636260375128&t=t
+#EXTINF:-1, Рада HD (UA)
+http://portal.ott.pink/C5UK_RadaHD/index.m3u8?token=B0B73593320445A22451378DF37B3E76
+#EXTINF:-1, Nord korea
+https://kctv.koryofront.org/stream/index.m3u8
+#EXTINF:-1, BBS News
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1, CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1, GBN Live
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1, Iran Internation
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1, Africa 24 en
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1, NHK World Japan
+https://nhk.lls.pbs.org/index.m3u8
+
+
+#EXTINF:-1 group-title="Австралия",ABS NEWS
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+
+#EXTINF:-1 group-title="Израиль",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Израиль",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
+
+
+#EXTINF:-1 group-title="Чехия",TV BRNO 1 HD
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
+#EXTINF:-1 group-title="Чехия",Vzpravy TV HD
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="Чехия",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Германия",Das Erste
+https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
+#EXTINF:-1 group-title="Германия",HSE24
+https://hse24.akamaized.net/hls/live/2006663/hse24/master_1080p25.m3u8
+#EXTINF:-1 group-title="Германия",DW
+http://45.190.28.50/DW/index.m3u8
+
+
+#EXTINF:-1 group-title="МОЛДОВА",Realitatea TV
+https://realitatealive.md/tv/rlive.m3u8
+#EXTINF:-1 group-title="МОЛДОВА",Moldova 1
+https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
+
+
+#EXTINF:-1 group-title="Казахстан",Казахстан 24
+https://stream8.cinerama.uz/1408/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Азербайджан",Al Zahra TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Азербайджан",Az TV
+http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+
+#EXTINF:-1 group-title="Грузия",1TV HD
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
+
+#EXTINF:-1 group-title="Латвия",TV Net
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1 group-title="Латвия" tvg-logo="https://i.imgur.com/r4rlHUt.png",Tvnet 
+https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Румыния",Aleph News
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
