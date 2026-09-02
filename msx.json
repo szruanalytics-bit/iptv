@@ -1,0 +1,6 @@
+{
+  "name": "M3U Launcher SZRU",
+  "version": "1.0.0",
+  "background": null,
+  "reference": "user:https://msx.benzac.de/services/m3u.php?type=video&mode=extended&url=https%3A%2F%2Fraw.githubusercontent.com%2Fszruanalytics-bit%2Fiptv%2Frefs%2Fheads%2Fmain%2FPlaylist2.m3u&headline=SZRU"
+}
